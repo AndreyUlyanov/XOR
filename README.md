@@ -1,0 +1,2 @@
+# XOR
+xor encryption 
